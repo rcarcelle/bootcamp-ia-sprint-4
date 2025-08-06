@@ -3,6 +3,7 @@ channels:
   - defaults
 dependencies:
   - python=3.11.8
+  - pip
   - pip:
       - aiohttp==3.9.5
       - aiosignal==1.3.1
